@@ -60,10 +60,10 @@ plt.figure(); toBePlotted.plot();
 plt.show()
 
 
-plt.plot(toBePlotted)
+# plt.plot(toBePlotted)
 
-toBePlotted.plot(kind='hist')
-toBePlotted.hist()
+# toBePlotted.plot(kind='hist')
+# toBePlotted.hist()
 # num_bins = 50
 # #plt.hist(toBePlotted, num_bins, normed=1, facecolor='green', alpha=0.5)
 #
